@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://localhost:8080/AlphaCab/AlphaCabCalculator?WSDL" uri="src/conf/xml-resources/web-service-references/AlphaCabCalculator/wsdl/localhost_8080/AlphaCab/AlphaCabCalculator.wsdl"/>
+    <system systemId="http://localhost:8080/AlphaCab/AlphaCabCalculator?xsd=1" uri="src/conf/xml-resources/web-service-references/AlphaCabCalculator/wsdl/localhost_8080/AlphaCab/AlphaCabCalculator.xsd_1.xsd"/>
+    <system systemId="http://localhost:8080/AlphaCab/AlphaCabCalculate?WSDL" uri="src/conf/xml-resources/web-service-references/AlphaCabCalculate/wsdl/localhost_8080/AlphaCab/AlphaCabCalculate.wsdl"/>
+    <system systemId="http://localhost:8080/AlphaCab/AlphaCabCalculate?xsd=1" uri="src/conf/xml-resources/web-service-references/AlphaCabCalculate/wsdl/localhost_8080/AlphaCab/AlphaCabCalculate.xsd_1.xsd"/>
+</catalog>
